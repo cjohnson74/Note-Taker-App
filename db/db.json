@@ -1,6 +1,1 @@
-[
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
-]
+[{"title":"Test Title","text":"Test text"},{"title":"First Note","text":"This is the first note"},{"title":"Second Note","text":"This is the first"},{"title":"Second Note","text":"This is the first"},{"title":"Third Note","text":"This is my third note"},{"title":"Fourth Note","text":"This is the fourth note"}]
