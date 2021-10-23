@@ -1,14 +1,26 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "",
-  "main": "server.js",
+  "description": "An application that can be used to write and save notes. This application uses an Express.js back end and saves and retrieves note data from a JSON file.",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
-  }
+    "express": "^4.16.4",
+    "generate-unique-id": "^2.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjohnson74/Note-Taker-App.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/cjohnson74/Note-Taker-App/issues"
+  },
+  "homepage": "https://github.com/cjohnson74/Note-Taker-App#readme"
 }
