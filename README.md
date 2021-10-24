@@ -5,7 +5,7 @@ An application that can be used to write and save notes. This application uses a
 
 https://note-taker-app-express-js.herokuapp.com/
 
-# Screenshot
+# Screenshots
 
 <img width="1357" alt="Screen Shot 2021-10-24 at 11 18 59 AM" src="https://user-images.githubusercontent.com/52815609/138600723-6db4e796-f737-4adb-8a6c-96ff21fa50c5.png">
 
