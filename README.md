@@ -3,7 +3,7 @@ An application that can be used to write and save notes. This application uses a
 
 # Live Application Deployed on Heroku
 
-https://note-taker-app-express-js.herokuapp.com/
+[Live App](https://note-taker-app-express-js.herokuapp.com/)
 
 # Screenshots
 
